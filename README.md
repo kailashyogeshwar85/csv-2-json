@@ -11,6 +11,7 @@ npm install csv-2-json --save
 # Features
 ----------
 * Converts and saves your csv data into JSON format with custom options to specify file name and indentation to use in JSON file.
+* Specify Custom delimiter using delimiter key in options object
 
 # Example Usage
 ----------
