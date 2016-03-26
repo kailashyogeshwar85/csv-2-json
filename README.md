@@ -3,7 +3,7 @@
   Npm module to convert your CSV file to JSON file with custom options to specify file   name and identation level to be use in Json file.
 # Install
 ```bash
-npm install csv-to-json --save
+npm install csv-2-json --save
 ```
 ----------
 # Features
@@ -23,7 +23,7 @@ npm install csv-to-json --save
   Ajinkya, 33, 49
  */
 
-var csvtojson = require('csv-to-json');
+var csvtojson = require('csv-2-json');
 csvtojson.toJson('./sample.csv')
 
 /*
@@ -59,7 +59,7 @@ csvtojson.toJson('./sample.csv')
 ```
 # Example
 ``` javascript
-var csvtojson = require('csvtojson');
+var csvtojson = require('csv-2-json');
 var options = {
  'filename':'report.json',
  'indent': 4
