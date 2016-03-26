@@ -1,7 +1,7 @@
 {
   "name": "csv-2-json",
   "version": "v0.0.2",
-  "description": "Utility module for converting csv data to json and saving it to file",
+  "description": "Utility module for parsing csv data to json and saving it to file",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
