@@ -1,0 +1,31 @@
+{
+  "name": "csv-2-json",
+  "version": "v0.0.2",
+  "description": "Utility module for converting csv data to json and saving it to file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/kailashyogeshwar85/csv-2-json.git"
+  },
+  "bugs": {
+    "url":"https://github.com/kailashyogeshwar85/csv-2-json/issues",
+    "email":"kailashyogeshwar85@gmail.com"
+  },
+  "keywords": [
+    "csvtojson",
+    "csvjsonArray",
+    "jsonObject",
+    "csvtoJson",
+    "csvjsonparse",
+    "csvtoObject"
+  ],
+  "homepage":"https://github.com/kailashyogeshwar85/csv-2-json",
+  "engines":{
+      "node": ">=0.10.25"
+  },
+  "author": "Kailash Yogeshwar kailashyogeshwar85@gmail.com",
+  "license": "ISC"
+}
