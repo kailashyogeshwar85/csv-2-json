@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/kailashyogeshwar85/csv-2-json.svg?branch=master)](https://travis-ci.org/kailashyogeshwar85/csv-2-json)
 
 &copy; ,Kailash Yogeshwar, Licensed under MIT-License
 # csv-2-json (Node.js)
