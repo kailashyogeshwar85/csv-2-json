@@ -5,6 +5,7 @@
 var csvtojson = require('./../../csv-2-json');
 var options = {
 	filename:"report.json",
-	indent: 4
+	indent: 4,
+	delimiter: ","
 }
 csvtojson.toJson('./sample.csv', options);
