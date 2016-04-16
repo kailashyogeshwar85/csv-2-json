@@ -1,5 +1,5 @@
 &copy; ,Kailash Yogeshwar, Licensed under MIT-License
-# Csv-to-Json (Node.js)
+# csv-2-json (Node.js)
   Npm module to convert your CSV file to JSON file with custom options to specify file   name and identation level to be use in Json file.
 # Install
 ```bash
